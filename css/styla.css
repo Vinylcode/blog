@@ -1,5 +1,18 @@
 body
 {text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-color: brown;
+color: crimson;
+}
+#contenedor
+{
+    width: 70%;
+    align-content: center;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid coral;
+    margin: 0 auto;
+}
+#contenedor h1
+{
+    font-size: 32px;
 }
